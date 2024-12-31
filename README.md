@@ -1,6 +1,6 @@
 Overview:
 
-This project implements a real-time vehicle detection and tracking system using YOLOv5, designed for tracking vehicles such as cars, trucks, and other road users in video feeds. The system employs YOLOv11s tracking functionality to detect and monitor multiple vehicle classes, with real-time updates and dynamic reporting.
+This project implements a real-time vehicle detection and tracking system using YOLOv11, designed for tracking vehicles such as cars, trucks, and other road users in video feeds. The system employs YOLOv11s tracking functionality to detect and monitor multiple vehicle classes, with real-time updates and dynamic reporting.
 
 Features:
 
